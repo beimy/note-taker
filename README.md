@@ -20,6 +20,8 @@
   ## Description
   
   This simple website allows users to take notes. Users can save notes to a database, and also delete unneeded notes.
+  ![NoteTakerScreenShot](https://user-images.githubusercontent.com/33100653/167313126-b1d8aed3-f763-49a0-a2c1-6ad08affc0f4.PNG)
+
 
   ## Installation Instructions
   
